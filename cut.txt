@@ -1,0 +1,126 @@
+CD 133 (Fade in)
+C  191
+C  286
+C  385
+C  429
+C  461
+C  532
+C  580
+C  677
+C  732
+C  795
+CD 887 (Fade out)
+CD 1048 (Fade in to next ad) 
+C  1055 (Cut during fade in)
+C  1104
+C  1221
+C  1299
+C  1334
+C  1413
+C  1455
+C  1487
+C  1516
+C  1591
+C  1637
+C  1678
+C  1730
+C  1780
+C  1820
+C  1853
+C  1905
+C  1932
+C  1993
+C  2028
+C  2078
+DD 2180 (Wipe from left to right to next ad)
+C  2254
+C  2301
+C  2321
+C  2343
+C  2354
+C  2415
+C  2520
+C  2581
+C  2626
+C  2677 (Cut, a slight cut/not noticeable in 30fps)
+C  2723
+C  2836
+C  2892
+C  2946
+DD 2986 (replace of pixels from current to next ad)
+C  3008 (Cut during the dither dissolve)
+C  3084
+C  3126
+C  3271
+C  3314
+C  3344
+C  3407
+C  3435
+C  3474
+C  3511
+C  3524
+C  3567
+C  3587
+C  3684
+C  3797
+C  3873
+C  3913
+C  3958
+C  3990
+CD 4081 (Fade from current to next ad)
+C  4090 (Cut during fade)
+DD 4446 (Slide transition from left to right to next ad)
+DD 4476 (Slide transition ends)
+C  4484
+C  4547
+C  4608
+C  4657
+C  4707
+C  4741
+C  4794
+C  4838
+C  4864
+C  4882
+C  4897
+C  4912
+C  4930
+C  4959
+C  5010
+DD 5059 (replace of pixels from current to next ad)
+C  5063 (Cut during the dither dissolve)
+CD 5391 (Fade from current to next ad)
+C  5437
+C  5479
+C  5522
+C  5563
+C  5595
+C  5628
+C  5657
+C  5689
+C  5733
+C  5760
+C  5796
+C  5823
+C  5860
+C  5895
+C  5930
+C  5976
+C  5990
+C  5995
+C  6007
+C  6032
+C  6047
+C  6086
+C  6111
+C  6152
+C  6185
+C  6243
+C  6311
+C  6441
+C  6479
+C  6529
+C  6586
+C  6623
+CD 6654 (Fade out)
+C  6673 (Cut during fade out)
+
